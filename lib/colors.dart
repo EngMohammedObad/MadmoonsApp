@@ -1,0 +1,24 @@
+
+import 'package:flutter/material.dart';
+const MadmoonChatBlue = Color(0x6DC5CB);
+const MadmoonChatCardBetwuenGrey = Color(0xF4F4F4);
+const kBackgroundColor = Color(0xFFF1EFF1);
+const kBlueColor = Color(0xFF9E9E9E);
+const kSecondaryColor = Color(0xFFfcca46);
+const  facebookColor= Color(0x18c7ca);
+const kTextLightColor = Color(0xFF9E9E9E);
+const kTextLightColor2 = Color(0xFFD6D6D6);
+const  kPrimaryColor= Color(0xFF9E9E9E);
+const  kPrimaryColor2= Color(0xFF40BAD5);
+const colorparent=Colors.transparent;
+const kDefaultPadding = 20.0;
+const Color iconColor = Color(0xFFB6C7D1);
+const Color activeColor = Color(0xFF09126C);
+const Color textColor1 = Color(0XFFA7BCC7);
+const Color textColor2 = Color(0XFF9BB3C0);
+const Color kTextColor = Color(0xFF219ebc);
+const Color googleColor = Color(0xFFDE4B39);
+const Color backgroundColor = Color(0xFFECF3F9);
+const Color fontscolors = Color(0xFF9E9E9E);
+const Color butoom = Color(0xFF9E9E9E);
+const  facebookColors= Color(0xFF023047);

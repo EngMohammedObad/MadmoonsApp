@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "705662330493",
+    "project_id": "madmooon-c2117",
+    "storage_bucket": "madmooon-c2117.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705662330493:android:60252b06e627b12dfc7314",
+        "android_client_info": {
+          "package_name": "madmooon.com.madmooon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705662330493-5voeaoqas6lhnpqjvujuunrau2vfd88u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "madmooon.com.madmooon",
+            "certificate_hash": "228aea513da2ce8595b7f89abb22ed893a0d685d"
+          }
+        },
+        {
+          "client_id": "705662330493-8uhth1jf7lkbj5fqa7pnaar476j7noo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOuT6mn9Q2lwwMXbMTCvu2KGC2aI35yi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705662330493-8uhth1jf7lkbj5fqa7pnaar476j7noo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
